@@ -14,7 +14,7 @@ export interface FIRMockData {
 export const firMockData: FIRMockData[] = [
   {
     id: "FIR2025001",
-    url: "https://www.africau.edu/images/default/sample.pdf",
+    url: "https://drive.google.com/file/d/1fy-zOtea2QEpqrtWCYDXNA53qB23wDSn/view?usp=drive_link",
     status: "pending",
     language: "en",
     station: "Central Police Station, Delhi",
