@@ -155,7 +155,7 @@ export const Chatbot: React.FC<ChatbotProps> = ({
         <div className="space-y-2">
           <div className="flex items-center gap-2 text-gov-green-500 dark:text-gov-green-300">
             <Bot className="h-5 w-5" />
-            <span className="font-semibold">NyaySetu Assistant</span>
+            <span className="font-semibold">NyayVidhi Assistant</span>
           </div>
           <p>{ipcTranslations[language].welcome}</p>
         </div>
