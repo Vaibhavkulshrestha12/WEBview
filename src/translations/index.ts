@@ -2,7 +2,7 @@ import { Translation } from '../types';
 
 export const translations: Record<string, Translation> = {
   en: {
-    title: 'NyaySetu',
+    title: 'NyayVidhi',
     placeholder: 'Enter FIR ID',
     fetch: 'Fetch FIR',
     fetching: 'Fetching...',
