@@ -185,3 +185,4 @@ export const Sidebar: React.FC<SidebarProps> = ({ t, isOpen }) => {
     </div>
   );
 };
+
